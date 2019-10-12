@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\tinkomo\Documents\PERSONAL\ADH401TProjects\Transactioncapture\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+767438750.index
+1125266599.index
+3680266041.index
+257339130.index
+1525975636.index
+2151016849.index
